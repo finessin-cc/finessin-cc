@@ -1,9 +1,6 @@
 ## Hi there 👋
-
 I'm a Junior Cybersecurity Enthusiast
-
 I'm currently building my path in cybersecurity — learning step by step, practicing, and trying to understand how things actually work under the hood.
-
 ## What I'm doing right now
 Studying core topics like Linux, networking, and security fundamentals
 Practicing with hands-on labs and CTF-style challenges
@@ -12,7 +9,7 @@ Writing structured notes in my own style to better understand and retain knowled
 Building small projects to turn theory into practice
 ## Projects
 Here you'll find some of the small tools and scripts I’ve built while learning — they reflect my current progress and mindset as I grow in this field.
- I focus on:
+### I focus on:
 Understanding concepts, not just memorizing commands
 Breaking things down into simple logic
 Practicing consistently and improving step by step
